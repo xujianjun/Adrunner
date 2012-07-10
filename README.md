@@ -1,4 +1,0 @@
-Adrunner
-========
-
-PriceRunner Adrunner Advertisement
